@@ -1,0 +1,4 @@
+<settings>
+    <split name="kb" value="512" />
+	<comment>This is a comment</comment>
+</settings>
